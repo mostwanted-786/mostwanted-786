@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **- email at: nishant.kushwaha@utexas.edu**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AiQc48mbkmMFgZB_QbKlqGzZ7tNocQ?e=bbgKSa](https://1drv.ms/b/s!AiQc48mbkmMFgZB_QbKlqGzZ7tNocQ?e=bbgKSa)
+- 📄 Know about my experiences with my [resume](https://1drv.ms/b/s!AiQc48mbkmMFgZB_QbKlqGzZ7tNocQ?e=bbgKSa)
 
 - ⚡ Fun fact **If I were a genius inventor, I would most like to invent the time machine.**
 
