@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning, Feature Engineering and business implication of a Data Science work**
 
-- 📫 How to reach me **nishant.kushwaha@utexas.edu**
+- 📫 How to reach me **- email at: nishant.kushwaha@utexas.edu**
 
 - 📄 Know about my experiences [https://1drv.ms/b/s!AiQc48mbkmMFgZB_QbKlqGzZ7tNocQ?e=bbgKSa](https://1drv.ms/b/s!AiQc48mbkmMFgZB_QbKlqGzZ7tNocQ?e=bbgKSa)
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/nishant_darknt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_darknt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishant-kushwaha1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-kushwaha1/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nishant_mostwanted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant_mostwanted" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
