@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing, CNN, Computer Vision, Clustering and their application in business problems.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mostwanted-786](https://github.com/mostwanted-786)
+- 👨‍💻 All of my projects are available at [https://github.com/mostwanted-786](https://github.com/nishantkushwaha-1999)
 
 - 💬 Ask me about **Machine Learning, Feature Engineering and business implication of a Data Science work**
 
